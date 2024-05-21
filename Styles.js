@@ -8,11 +8,6 @@ const Styles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
   },
-  headerArea: {
-    flex: 1,
-    justifyContent: "center",
-    alignItems: "center",
-  },
   primaryBackgroundColor1: {
     backgroundColor: "#495E57",
   },
